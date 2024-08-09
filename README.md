@@ -1,2 +1,2 @@
 # movies
-CSS || JS
+CSS || JAVASCRIPT
